@@ -1,0 +1,16 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\bin\Debug\StructHighscore.exe.config
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\bin\Debug\StructHighscore.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\bin\Debug\StructHighscore.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\bin\Debug\System.Security.AccessControl.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\bin\Debug\System.Security.Permissions.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\bin\Debug\System.Security.AccessControl.xml
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\bin\Debug\System.Security.Permissions.xml
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\obj\Debug\StructHighscore.csprojAssemblyReference.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\obj\Debug\StructHighscore.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\obj\Debug\StructHighscore.csproj.CopyComplete
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\obj\Debug\StructHighscore.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructHighscore\obj\Debug\StructHighscore.pdb

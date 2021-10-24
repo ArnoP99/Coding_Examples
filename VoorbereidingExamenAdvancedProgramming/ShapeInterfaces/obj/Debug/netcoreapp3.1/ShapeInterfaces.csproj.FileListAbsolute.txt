@@ -1,0 +1,13 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\obj\Debug\netcoreapp3.1\ShapeInterfaces.csprojAssemblyReference.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\obj\Debug\netcoreapp3.1\ShapeInterfaces.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\obj\Debug\netcoreapp3.1\ShapeInterfaces.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\obj\Debug\netcoreapp3.1\ShapeInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\bin\Debug\netcoreapp3.1\ShapeInterfaces.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\bin\Debug\netcoreapp3.1\ShapeInterfaces.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\bin\Debug\netcoreapp3.1\ShapeInterfaces.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\bin\Debug\netcoreapp3.1\ShapeInterfaces.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\bin\Debug\netcoreapp3.1\ShapeInterfaces.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\bin\Debug\netcoreapp3.1\ShapeInterfaces.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\obj\Debug\netcoreapp3.1\ShapeInterfaces.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\obj\Debug\netcoreapp3.1\ShapeInterfaces.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ShapeInterfaces\obj\Debug\netcoreapp3.1\ShapeInterfaces.genruntimeconfig.cache

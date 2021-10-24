@@ -1,0 +1,7 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructVector\bin\Debug\StructVector.exe.config
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructVector\bin\Debug\StructVector.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructVector\bin\Debug\StructVector.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructVector\obj\Debug\StructVector.csprojAssemblyReference.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructVector\obj\Debug\StructVector.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructVector\obj\Debug\StructVector.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StructVector\obj\Debug\StructVector.pdb

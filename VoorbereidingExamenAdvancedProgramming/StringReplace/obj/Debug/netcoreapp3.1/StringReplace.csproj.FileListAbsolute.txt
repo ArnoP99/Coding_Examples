@@ -1,0 +1,12 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringReplace\bin\Debug\netcoreapp3.1\StringReplace.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringReplace\bin\Debug\netcoreapp3.1\StringReplace.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringReplace\bin\Debug\netcoreapp3.1\StringReplace.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringReplace\bin\Debug\netcoreapp3.1\StringReplace.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringReplace\bin\Debug\netcoreapp3.1\StringReplace.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringReplace\bin\Debug\netcoreapp3.1\StringReplace.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringReplace\obj\Debug\netcoreapp3.1\StringReplace.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringReplace\obj\Debug\netcoreapp3.1\StringReplace.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringReplace\obj\Debug\netcoreapp3.1\StringReplace.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringReplace\obj\Debug\netcoreapp3.1\StringReplace.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringReplace\obj\Debug\netcoreapp3.1\StringReplace.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringReplace\obj\Debug\netcoreapp3.1\StringReplace.genruntimeconfig.cache

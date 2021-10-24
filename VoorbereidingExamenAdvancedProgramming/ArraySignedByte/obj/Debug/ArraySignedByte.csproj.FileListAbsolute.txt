@@ -1,0 +1,6 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ArraySignedByte\bin\Debug\ArraySignedByte.exe.config
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ArraySignedByte\bin\Debug\ArraySignedByte.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ArraySignedByte\bin\Debug\ArraySignedByte.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ArraySignedByte\obj\Debug\ArraySignedByte.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ArraySignedByte\obj\Debug\ArraySignedByte.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ArraySignedByte\obj\Debug\ArraySignedByte.pdb

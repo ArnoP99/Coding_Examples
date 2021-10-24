@@ -1,0 +1,13 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\bin\Debug\netcoreapp3.1\ConsoleRecursion.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\bin\Debug\netcoreapp3.1\ConsoleRecursion.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\bin\Debug\netcoreapp3.1\ConsoleRecursion.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\bin\Debug\netcoreapp3.1\ConsoleRecursion.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\bin\Debug\netcoreapp3.1\ConsoleRecursion.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\bin\Debug\netcoreapp3.1\ConsoleRecursion.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\obj\Debug\netcoreapp3.1\ConsoleRecursion.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\obj\Debug\netcoreapp3.1\ConsoleRecursion.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\obj\Debug\netcoreapp3.1\ConsoleRecursion.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\obj\Debug\netcoreapp3.1\ConsoleRecursion.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\obj\Debug\netcoreapp3.1\ConsoleRecursion.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\obj\Debug\netcoreapp3.1\ConsoleRecursion.genruntimeconfig.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ConsoleRecursion\obj\Debug\netcoreapp3.1\ConsoleRecursion.csprojAssemblyReference.cache

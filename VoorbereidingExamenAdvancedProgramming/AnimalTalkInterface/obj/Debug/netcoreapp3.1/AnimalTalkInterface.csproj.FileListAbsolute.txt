@@ -1,0 +1,13 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\bin\Debug\netcoreapp3.1\AnimalTalkInterface.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\bin\Debug\netcoreapp3.1\AnimalTalkInterface.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\bin\Debug\netcoreapp3.1\AnimalTalkInterface.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\bin\Debug\netcoreapp3.1\AnimalTalkInterface.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\bin\Debug\netcoreapp3.1\AnimalTalkInterface.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\bin\Debug\netcoreapp3.1\AnimalTalkInterface.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\obj\Debug\netcoreapp3.1\AnimalTalkInterface.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\obj\Debug\netcoreapp3.1\AnimalTalkInterface.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\obj\Debug\netcoreapp3.1\AnimalTalkInterface.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\obj\Debug\netcoreapp3.1\AnimalTalkInterface.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\obj\Debug\netcoreapp3.1\AnimalTalkInterface.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\obj\Debug\netcoreapp3.1\AnimalTalkInterface.genruntimeconfig.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\AnimalTalkInterface\obj\Debug\netcoreapp3.1\AnimalTalkInterface.csprojAssemblyReference.cache

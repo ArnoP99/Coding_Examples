@@ -1,0 +1,12 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\NumerOfWaysToGetUpStairs\bin\Debug\netcoreapp3.1\NumberOfWaysToGetUpStairs.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\NumerOfWaysToGetUpStairs\bin\Debug\netcoreapp3.1\NumberOfWaysToGetUpStairs.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\NumerOfWaysToGetUpStairs\bin\Debug\netcoreapp3.1\NumberOfWaysToGetUpStairs.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\NumerOfWaysToGetUpStairs\bin\Debug\netcoreapp3.1\NumberOfWaysToGetUpStairs.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\NumerOfWaysToGetUpStairs\bin\Debug\netcoreapp3.1\NumberOfWaysToGetUpStairs.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\NumerOfWaysToGetUpStairs\bin\Debug\netcoreapp3.1\NumberOfWaysToGetUpStairs.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\NumerOfWaysToGetUpStairs\obj\Debug\netcoreapp3.1\NumberOfWaysToGetUpStairs.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\NumerOfWaysToGetUpStairs\obj\Debug\netcoreapp3.1\NumberOfWaysToGetUpStairs.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\NumerOfWaysToGetUpStairs\obj\Debug\netcoreapp3.1\NumberOfWaysToGetUpStairs.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\NumerOfWaysToGetUpStairs\obj\Debug\netcoreapp3.1\NumberOfWaysToGetUpStairs.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\NumerOfWaysToGetUpStairs\obj\Debug\netcoreapp3.1\NumberOfWaysToGetUpStairs.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\NumerOfWaysToGetUpStairs\obj\Debug\netcoreapp3.1\NumberOfWaysToGetUpStairs.genruntimeconfig.cache

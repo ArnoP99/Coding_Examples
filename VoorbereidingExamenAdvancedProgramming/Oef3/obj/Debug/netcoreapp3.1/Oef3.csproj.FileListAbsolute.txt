@@ -1,0 +1,13 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\bin\Debug\netcoreapp3.1\Oef3.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\bin\Debug\netcoreapp3.1\Oef3.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\bin\Debug\netcoreapp3.1\Oef3.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\bin\Debug\netcoreapp3.1\Oef3.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\bin\Debug\netcoreapp3.1\Oef3.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\bin\Debug\netcoreapp3.1\Oef3.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\obj\Debug\netcoreapp3.1\Oef3.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\obj\Debug\netcoreapp3.1\Oef3.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\obj\Debug\netcoreapp3.1\Oef3.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\obj\Debug\netcoreapp3.1\Oef3.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\obj\Debug\netcoreapp3.1\Oef3.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\obj\Debug\netcoreapp3.1\Oef3.genruntimeconfig.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Oef3\obj\Debug\netcoreapp3.1\Oef3.csprojAssemblyReference.cache

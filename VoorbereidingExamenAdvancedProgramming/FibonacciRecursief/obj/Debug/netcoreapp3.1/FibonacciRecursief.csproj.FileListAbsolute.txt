@@ -1,0 +1,12 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\FibonacciRecursief\bin\Debug\netcoreapp3.1\FibonacciRecursief.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\FibonacciRecursief\bin\Debug\netcoreapp3.1\FibonacciRecursief.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\FibonacciRecursief\bin\Debug\netcoreapp3.1\FibonacciRecursief.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\FibonacciRecursief\bin\Debug\netcoreapp3.1\FibonacciRecursief.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\FibonacciRecursief\bin\Debug\netcoreapp3.1\FibonacciRecursief.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\FibonacciRecursief\bin\Debug\netcoreapp3.1\FibonacciRecursief.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\FibonacciRecursief\obj\Debug\netcoreapp3.1\FibonacciRecursief.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\FibonacciRecursief\obj\Debug\netcoreapp3.1\FibonacciRecursief.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\FibonacciRecursief\obj\Debug\netcoreapp3.1\FibonacciRecursief.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\FibonacciRecursief\obj\Debug\netcoreapp3.1\FibonacciRecursief.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\FibonacciRecursief\obj\Debug\netcoreapp3.1\FibonacciRecursief.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\FibonacciRecursief\obj\Debug\netcoreapp3.1\FibonacciRecursief.genruntimeconfig.cache

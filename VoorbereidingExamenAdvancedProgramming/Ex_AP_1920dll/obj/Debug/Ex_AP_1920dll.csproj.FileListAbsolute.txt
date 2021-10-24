@@ -1,0 +1,6 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920dll\bin\Debug\Ex_AP_1920dll.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920dll\bin\Debug\Ex_AP_1920dll.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920dll\obj\Debug\Ex_AP_1920dll.csprojAssemblyReference.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920dll\obj\Debug\Ex_AP_1920dll.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920dll\obj\Debug\Ex_AP_1920dll.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920dll\obj\Debug\Ex_AP_1920dll.pdb

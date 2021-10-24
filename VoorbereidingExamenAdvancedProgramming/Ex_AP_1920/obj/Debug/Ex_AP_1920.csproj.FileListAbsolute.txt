@@ -1,0 +1,10 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920\bin\Debug\Ex_AP_1920.exe.config
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920\bin\Debug\Ex_AP_1920.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920\bin\Debug\Ex_AP_1920.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920\obj\Debug\Ex_AP_1920.csprojAssemblyReference.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920\obj\Debug\Ex_AP_1920.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920\obj\Debug\Ex_AP_1920.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920\obj\Debug\Ex_AP_1920.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920\bin\Debug\Ex_AP_1920dll.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920\bin\Debug\Ex_AP_1920dll.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Ex_AP_1920\obj\Debug\Ex_AP_1920.csproj.CopyComplete

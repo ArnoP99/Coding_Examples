@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OefDLL1/1.0.0": {
+        "dependencies": {
+          "CirkelDLL": "1.0.0"
+        },
+        "runtime": {
+          "OefDLL1.dll": {}
+        }
+      },
+      "CirkelDLL/1.0.0": {
+        "runtime": {
+          "CirkelDLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OefDLL1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CirkelDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

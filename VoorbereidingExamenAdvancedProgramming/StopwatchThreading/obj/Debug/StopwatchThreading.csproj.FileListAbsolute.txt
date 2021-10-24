@@ -1,0 +1,12 @@
+C:\Users\arnop\source\repos\MultiThreading\StopwatchThreading\bin\Debug\StopwatchThreading.exe.config
+C:\Users\arnop\source\repos\MultiThreading\StopwatchThreading\bin\Debug\StopwatchThreading.exe
+C:\Users\arnop\source\repos\MultiThreading\StopwatchThreading\bin\Debug\StopwatchThreading.pdb
+C:\Users\arnop\source\repos\MultiThreading\StopwatchThreading\obj\Debug\StopwatchThreading.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\MultiThreading\StopwatchThreading\obj\Debug\StopwatchThreading.exe
+C:\Users\arnop\source\repos\MultiThreading\StopwatchThreading\obj\Debug\StopwatchThreading.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StopwatchThreading\bin\Debug\StopwatchThreading.exe.config
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StopwatchThreading\bin\Debug\StopwatchThreading.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StopwatchThreading\bin\Debug\StopwatchThreading.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StopwatchThreading\obj\Debug\StopwatchThreading.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StopwatchThreading\obj\Debug\StopwatchThreading.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StopwatchThreading\obj\Debug\StopwatchThreading.pdb

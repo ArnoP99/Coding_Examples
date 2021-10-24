@@ -1,0 +1,12 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ThreadingOef1\bin\Debug\netcoreapp3.1\ThreadingOef1.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ThreadingOef1\bin\Debug\netcoreapp3.1\ThreadingOef1.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ThreadingOef1\bin\Debug\netcoreapp3.1\ThreadingOef1.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ThreadingOef1\bin\Debug\netcoreapp3.1\ThreadingOef1.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ThreadingOef1\bin\Debug\netcoreapp3.1\ThreadingOef1.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ThreadingOef1\bin\Debug\netcoreapp3.1\ThreadingOef1.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ThreadingOef1\obj\Debug\netcoreapp3.1\ThreadingOef1.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ThreadingOef1\obj\Debug\netcoreapp3.1\ThreadingOef1.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ThreadingOef1\obj\Debug\netcoreapp3.1\ThreadingOef1.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ThreadingOef1\obj\Debug\netcoreapp3.1\ThreadingOef1.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ThreadingOef1\obj\Debug\netcoreapp3.1\ThreadingOef1.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\ThreadingOef1\obj\Debug\netcoreapp3.1\ThreadingOef1.genruntimeconfig.cache

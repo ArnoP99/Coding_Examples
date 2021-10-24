@@ -1,0 +1,12 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Machtsverheffing\bin\Debug\netcoreapp3.1\Machtsverheffing.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Machtsverheffing\bin\Debug\netcoreapp3.1\Machtsverheffing.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Machtsverheffing\bin\Debug\netcoreapp3.1\Machtsverheffing.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Machtsverheffing\bin\Debug\netcoreapp3.1\Machtsverheffing.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Machtsverheffing\bin\Debug\netcoreapp3.1\Machtsverheffing.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Machtsverheffing\bin\Debug\netcoreapp3.1\Machtsverheffing.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Machtsverheffing\obj\Debug\netcoreapp3.1\Machtsverheffing.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Machtsverheffing\obj\Debug\netcoreapp3.1\Machtsverheffing.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Machtsverheffing\obj\Debug\netcoreapp3.1\Machtsverheffing.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Machtsverheffing\obj\Debug\netcoreapp3.1\Machtsverheffing.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Machtsverheffing\obj\Debug\netcoreapp3.1\Machtsverheffing.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\Machtsverheffing\obj\Debug\netcoreapp3.1\Machtsverheffing.genruntimeconfig.cache

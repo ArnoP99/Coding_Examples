@@ -1,0 +1,7 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\2DArrayGamewereld\bin\Debug\2DArrayGamewereld.exe.config
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\2DArrayGamewereld\bin\Debug\2DArrayGamewereld.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\2DArrayGamewereld\bin\Debug\2DArrayGamewereld.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\2DArrayGamewereld\obj\Debug\2DArrayGamewereld.csprojAssemblyReference.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\2DArrayGamewereld\obj\Debug\2DArrayGamewereld.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\2DArrayGamewereld\obj\Debug\2DArrayGamewereld.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\2DArrayGamewereld\obj\Debug\2DArrayGamewereld.pdb

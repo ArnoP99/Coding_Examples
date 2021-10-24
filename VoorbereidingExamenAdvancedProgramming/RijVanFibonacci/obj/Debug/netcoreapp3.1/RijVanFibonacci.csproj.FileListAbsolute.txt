@@ -1,0 +1,13 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\bin\Debug\netcoreapp3.1\RijVanFibonacci.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\bin\Debug\netcoreapp3.1\RijVanFibonacci.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\bin\Debug\netcoreapp3.1\RijVanFibonacci.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\bin\Debug\netcoreapp3.1\RijVanFibonacci.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\bin\Debug\netcoreapp3.1\RijVanFibonacci.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\bin\Debug\netcoreapp3.1\RijVanFibonacci.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\obj\Debug\netcoreapp3.1\RijVanFibonacci.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\obj\Debug\netcoreapp3.1\RijVanFibonacci.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\obj\Debug\netcoreapp3.1\RijVanFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\obj\Debug\netcoreapp3.1\RijVanFibonacci.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\obj\Debug\netcoreapp3.1\RijVanFibonacci.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\obj\Debug\netcoreapp3.1\RijVanFibonacci.genruntimeconfig.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\RijVanFibonacci\obj\Debug\netcoreapp3.1\RijVanFibonacci.csprojAssemblyReference.cache

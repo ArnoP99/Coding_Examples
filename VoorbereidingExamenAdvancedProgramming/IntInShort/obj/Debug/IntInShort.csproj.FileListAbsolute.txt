@@ -1,0 +1,6 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\IntInShort\bin\Debug\IntInShort.exe.config
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\IntInShort\bin\Debug\IntInShort.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\IntInShort\bin\Debug\IntInShort.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\IntInShort\obj\Debug\IntInShort.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\IntInShort\obj\Debug\IntInShort.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\IntInShort\obj\Debug\IntInShort.pdb

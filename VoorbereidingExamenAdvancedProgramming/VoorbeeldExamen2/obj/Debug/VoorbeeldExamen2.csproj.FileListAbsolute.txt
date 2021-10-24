@@ -1,0 +1,10 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\VoorbeeldExamen2\bin\Debug\VoorbeeldExamen2.exe.config
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\VoorbeeldExamen2\bin\Debug\VoorbeeldExamen2.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\VoorbeeldExamen2\bin\Debug\VoorbeeldExamen2.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\VoorbeeldExamen2\obj\Debug\VoorbeeldExamen2.csprojAssemblyReference.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\VoorbeeldExamen2\obj\Debug\VoorbeeldExamen2.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\VoorbeeldExamen2\obj\Debug\VoorbeeldExamen2.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\VoorbeeldExamen2\obj\Debug\VoorbeeldExamen2.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\VoorbeeldExamen2\bin\Debug\VoorbeeldExamen2DLL.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\VoorbeeldExamen2\bin\Debug\VoorbeeldExamen2DLL.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\VoorbeeldExamen2\obj\Debug\VoorbeeldExamen2.csproj.CopyComplete

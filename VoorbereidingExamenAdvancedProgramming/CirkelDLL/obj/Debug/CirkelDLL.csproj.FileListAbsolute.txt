@@ -1,0 +1,6 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\CirkelDLL\bin\Debug\CirkelDLL.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\CirkelDLL\bin\Debug\CirkelDLL.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\CirkelDLL\obj\Debug\CirkelDLL.csprojAssemblyReference.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\CirkelDLL\obj\Debug\CirkelDLL.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\CirkelDLL\obj\Debug\CirkelDLL.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\CirkelDLL\obj\Debug\CirkelDLL.pdb

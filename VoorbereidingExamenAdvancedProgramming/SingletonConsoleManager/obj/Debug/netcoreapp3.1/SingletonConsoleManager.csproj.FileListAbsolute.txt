@@ -1,0 +1,13 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\obj\Debug\netcoreapp3.1\SingletonConsoleManager.csprojAssemblyReference.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\obj\Debug\netcoreapp3.1\SingletonConsoleManager.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\obj\Debug\netcoreapp3.1\SingletonConsoleManager.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\obj\Debug\netcoreapp3.1\SingletonConsoleManager.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\bin\Debug\netcoreapp3.1\SingletonConsoleManager.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\bin\Debug\netcoreapp3.1\SingletonConsoleManager.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\bin\Debug\netcoreapp3.1\SingletonConsoleManager.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\bin\Debug\netcoreapp3.1\SingletonConsoleManager.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\bin\Debug\netcoreapp3.1\SingletonConsoleManager.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\bin\Debug\netcoreapp3.1\SingletonConsoleManager.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\obj\Debug\netcoreapp3.1\SingletonConsoleManager.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\obj\Debug\netcoreapp3.1\SingletonConsoleManager.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\SingletonConsoleManager\obj\Debug\netcoreapp3.1\SingletonConsoleManager.genruntimeconfig.cache

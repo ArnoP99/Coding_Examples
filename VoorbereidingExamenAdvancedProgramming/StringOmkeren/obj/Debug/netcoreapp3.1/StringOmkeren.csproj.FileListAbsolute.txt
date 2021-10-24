@@ -1,0 +1,13 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\bin\Debug\netcoreapp3.1\StringOmkeren.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\bin\Debug\netcoreapp3.1\StringOmkeren.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\bin\Debug\netcoreapp3.1\StringOmkeren.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\bin\Debug\netcoreapp3.1\StringOmkeren.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\bin\Debug\netcoreapp3.1\StringOmkeren.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\bin\Debug\netcoreapp3.1\StringOmkeren.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\obj\Debug\netcoreapp3.1\StringOmkeren.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\obj\Debug\netcoreapp3.1\StringOmkeren.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\obj\Debug\netcoreapp3.1\StringOmkeren.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\obj\Debug\netcoreapp3.1\StringOmkeren.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\obj\Debug\netcoreapp3.1\StringOmkeren.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\obj\Debug\netcoreapp3.1\StringOmkeren.genruntimeconfig.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\StringOmkeren\obj\Debug\netcoreapp3.1\StringOmkeren.csprojAssemblyReference.cache

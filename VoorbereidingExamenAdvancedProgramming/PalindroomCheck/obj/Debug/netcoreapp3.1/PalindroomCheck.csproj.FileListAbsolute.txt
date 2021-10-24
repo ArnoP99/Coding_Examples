@@ -1,0 +1,12 @@
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\PalindroomCheck\bin\Debug\netcoreapp3.1\PalindroomCheck.exe
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\PalindroomCheck\bin\Debug\netcoreapp3.1\PalindroomCheck.deps.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\PalindroomCheck\bin\Debug\netcoreapp3.1\PalindroomCheck.runtimeconfig.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\PalindroomCheck\bin\Debug\netcoreapp3.1\PalindroomCheck.runtimeconfig.dev.json
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\PalindroomCheck\bin\Debug\netcoreapp3.1\PalindroomCheck.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\PalindroomCheck\bin\Debug\netcoreapp3.1\PalindroomCheck.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\PalindroomCheck\obj\Debug\netcoreapp3.1\PalindroomCheck.AssemblyInfoInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\PalindroomCheck\obj\Debug\netcoreapp3.1\PalindroomCheck.AssemblyInfo.cs
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\PalindroomCheck\obj\Debug\netcoreapp3.1\PalindroomCheck.csproj.CoreCompileInputs.cache
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\PalindroomCheck\obj\Debug\netcoreapp3.1\PalindroomCheck.dll
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\PalindroomCheck\obj\Debug\netcoreapp3.1\PalindroomCheck.pdb
+C:\Users\arnop\source\repos\VoorbereidingExamenAdvancedProgramming\PalindroomCheck\obj\Debug\netcoreapp3.1\PalindroomCheck.genruntimeconfig.cache
